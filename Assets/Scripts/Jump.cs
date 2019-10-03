@@ -14,7 +14,7 @@ public class Jump : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown("Spacebar"))
+        if(Input.GetKeyDown(KeyCode.Space))
         {
             Debug.Log(message: "JUMP");
         }
