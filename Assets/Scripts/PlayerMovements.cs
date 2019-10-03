@@ -18,7 +18,7 @@ public class PlayerMovements : MonoBehaviour
         {
             transform.position.x -= 1;
         }
-        if (Input.GetKeyDown(KeyCode.a))
+        if (Input.GetKeyDown(KeyCode.d))
         {
             transform.position.x += 1;
         }
