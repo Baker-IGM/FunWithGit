@@ -14,6 +14,13 @@ public class PlayerMovements : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.a))
+        {
+            transform.position.x -= 1;
+        }
+        if (Input.GetKeyDown(KeyCode.a))
+        {
+            transform.position.x += 1;
+        }
     }
 }
