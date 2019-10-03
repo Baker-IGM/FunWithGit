@@ -16,7 +16,7 @@ public class Jump : MonoBehaviour
     {
         if(Input.GetKeyDown("Spacebar"))
         {
-            
+            Debug.Log(message: "JUMP");
         }
         
     }
