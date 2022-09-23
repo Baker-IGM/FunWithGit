@@ -1,6 +1,6 @@
 # FunWithGit _(Game Name)_
 
-### _(tklefjaklds jfdlas)_
+### _(Tool Cool Beans)_
 
 | Version Control Master | Scrum Master    |
 | ---------------------- | --------------- |
