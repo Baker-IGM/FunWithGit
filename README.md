@@ -1,6 +1,6 @@
 # FunWithGit _(Game Name)_
 
-### _(Best Team ever)_
+### _(Team Name)_
 
 | Version Control Master | Scrum Master    |
 | ---------------------- | --------------- |
@@ -9,7 +9,7 @@
 | Discord name           | Discord name    |
 | GitHub username        | GitHub username |
 
-#### Your both wrong
+#### Keywords
 
 -   Adjectives
 -   Max 10
@@ -18,7 +18,6 @@
 #### Platforms(s)
 
 -   List each
-- 	More stuff
 
 #### Target Player Exerience
 
