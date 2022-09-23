@@ -9,7 +9,7 @@
 | Discord name           | Discord name    |
 | GitHub username        | GitHub username |
 
-#### no more
+#### Your both wrong
 
 -   Adjectives
 -   Max 10
