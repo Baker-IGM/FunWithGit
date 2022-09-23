@@ -1,6 +1,6 @@
 # FunWithGit _(Game Name)_
 
-### _(Team Name)_
+### _(bad THigns)_
 
 | Version Control Master | Scrum Master    |
 | ---------------------- | --------------- |
