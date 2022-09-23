@@ -1,6 +1,6 @@
 # FunWithGit _(Game Name)_
 
-### _(bad THigns)_
+### _(tklefjaklds jfdlas)_
 
 | Version Control Master | Scrum Master    |
 | ---------------------- | --------------- |
@@ -18,6 +18,7 @@
 #### Platforms(s)
 
 -   List each
+-   -kldjsfkldsja
 
 #### Target Player Exerience
 
